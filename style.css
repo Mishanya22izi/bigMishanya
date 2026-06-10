@@ -38,6 +38,17 @@ nav {
     transform: translateY(-2px);
 }
 
+body {
+  background-image: url('elephant.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+
 .nav-btn.active {
     background-color: #4a148c;
     color: #ffffff;
